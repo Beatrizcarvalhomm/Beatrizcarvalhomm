@@ -25,7 +25,6 @@
 ---
 
 ## 📊 Estatísticas GitHub
-
 <p align="center">
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCarvalho&layout=compact&theme=radical&title_color=ff82b3&text_color=333333&bg_color=ffffff" alt="Linguagens mais usadas" />
@@ -34,16 +33,9 @@
 ---
 
 ## 📬 Contactos
-
 <p align="center">
   <a href="mailto:beatrizmachadocarvalhomm@email.com">
     <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/beatrizcarvalho">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-</p>
-
 - 📧 **Email**: beatrizmachadocarvalhomm@email.com
 
 ---
