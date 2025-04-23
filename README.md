@@ -13,11 +13,21 @@
 ## 💻 Linguagens & Tecnologias
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/linux.png" alt="Linux" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" />
+  <span style="background-color: #ffe4e1; padding: 10px; border-radius: 50%;">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+  </span>
+  <span style="background-color: #ffe4e1; padding: 10px; border-radius: 50%;">
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
+  </span>
+  <span style="background-color: #ffe4e1; padding: 10px; border-radius: 50%;">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  </span>
+  <span style="background-color: #ffe4e1; padding: 10px; border-radius: 50%;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linux.png" alt="Linux" />
+  </span>
+  <span style="background-color: #ffe4e1; padding: 10px; border-radius: 50%;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" />
+  </span>
 </p>
 
 - **Linguagens**: `C`, `C#`, `HTML`, `CSS`, `JavaScript`
