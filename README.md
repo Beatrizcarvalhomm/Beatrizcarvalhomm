@@ -1,54 +1,84 @@
-# Olá, eu sou a Beatriz Carvalho👩‍💻
+# Beatriz Carvalho | Programação & Cibersegurança
 
-<p align="center">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" alt="Beatriz" width="300"/>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl" width="450" style="border-radius: 10px;"/>
+</div>
 
-## 🎓 Formação
-- Estudante de Técnico de Gestão e Programação de Sistemas Informáticos;
-- Com um grande interesse em Cibersegurança e Desenvolvimento de Software.
+## Sobre Mim
+
+Estudante finalista do curso **Técnico de Gestão e Programação de Sistemas Informáticos** com interesse em cibersegurança. Em breve, iniciarei formação especializada na área de segurança informática, expandindo conhecimentos neste campo em crescimento.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCarvalho&layout=compact&theme=dracula&title_color=ff69b4&text_color=ffffff&bg_color=282a36&hide_border=true&border_radius=10" alt="Linguagens mais usadas" />
+</div>
+
+## Competências Técnicas
+
+<div align="center" style="background-color: #1e2030; padding: 15px; border-radius: 10px;">
+  <table style="background-color: #1e2030; border-collapse: separate; border-spacing: 10px; margin: 0 auto;">
+    <tr>
+      <td align="center" style="background-color: #282a36; border-radius: 8px; padding: 10px; width: 80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35" height="35"/>
+        <br><span style="color: white;">C</span>
+      </td>
+      <td align="center" style="background-color: #282a36; border-radius: 8px; padding: 10px; width: 80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="35" height="35"/>
+        <br><span style="color: white;">C#</span>
+      </td>
+      <td align="center" style="background-color: #282a36; border-radius: 8px; padding: 10px; width: 80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/>
+        <br><span style="color: white;">JavaScript</span>
+      </td>
+      <td align="center" style="background-color: #282a36; border-radius: 8px; padding: 10px; width: 80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35" height="35"/>
+        <br><span style="color: white;">HTML</span>
+      </td>
+      <td align="center" style="background-color: #282a36; border-radius: 8px; padding: 10px; width: 80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35" height="35"/>
+        <br><span style="color: white;">CSS</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="background-color: #282a36; border-radius: 8px; padding: 10px; width: 80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35" height="35"/>
+        <br><span style="color: white;">Linux</span>
+      </td>
+      <td align="center" style="background-color: #282a36; border-radius: 8px; padding: 10px; width: 80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" height="35"/>
+        <br><span style="color: white;">Git</span>
+      </td>
+      <td align="center" style="background-color: #282a36; border-radius: 8px; padding: 10px; width: 80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35" height="35"/>
+        <br><span style="color: white;">GitHub</span>
+      </td>
+      <td align="center" style="background-color: #282a36; border-radius: 8px; padding: 10px; width: 80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35" height="35"/>
+        <br><span style="color: white;">VS Code</span>
+      </td>
+      <td align="center" style="background-color: #282a36; border-radius: 8px; padding: 10px; width: 80px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35" height="35"/>
+        <br><span style="color: white;">SQL</span>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## Formação Académica
+
+- **Técnico de Gestão e Programação de Sistemas Informáticos** (a concluir)
+- **Próximo passo:** Formação especializada em Cibersegurança
+- Interesse em explorar áreas como análise de vulnerabilidades e segurança de redes
+
+## Áreas de Interesse
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Cibersegurança-ff69b4?style=for-the-badge&logo=shield&logoColor=white" alt="Cibersegurança"/>
+  <img src="https://img.shields.io/badge/Segurança%20de%20Redes-6272a4?style=for-the-badge&logo=network&logoColor=white" alt="Segurança de Redes"/>
+  <img src="https://img.shields.io/badge/Análise%20de%20Vulnerabilidades-282a36?style=for-the-badge&logo=hackaday&logoColor=white" alt="Análise de Vulnerabilidades"/>
+</div>
 
 ---
 
-## 💻 Linguagens & Tecnologias
-
-<p align="center" style="background-color: #ffe4e1; padding: 20px; border-radius: 10px;">
-  <span style="padding: 10px; border-radius: 50%; background-color: #fff;">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
-  </span>
-  <span style="padding: 10px; border-radius: 50%; background-color: #fff;">
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
-  </span>
-  <span style="padding: 10px; border-radius: 50%; background-color: #fff;">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  </span>
-  <span style="padding: 10px; border-radius: 50%; background-color: #fff;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linux.png" alt="Linux" />
-  </span>
-  <span style="padding: 10px; border-radius: 50%; background-color: #fff;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" />
-  </span>
-</p>
-
-- **Linguagens**: `C`, `C#`, `HTML`, `CSS`, `JavaScript`
-
----
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCarvalho&layout=compact&theme=radical&title_color=ff82b3&text_color=333333&bg_color=ffffff" alt="Linguagens mais usadas" />
-</p>
-
----
-
-## 📬 Contactos
-
-- 📧 **Email**: beatrizmachadocarvalhomm@email.com
-
----
-
-💫 **Obrigada por visitares o meu perfil!**
-
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BeatrizCarvalho&color=ff69b4&style=flat-square" alt="Profile views"/>
+</div>
