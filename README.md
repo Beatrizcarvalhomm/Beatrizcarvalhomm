@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Estudante do curso **Técnico de Gestão e Programação de Sistemas Informáticos** com interesse em cibersegurança. Em breve, iniciarei formação especializada na área de segurança informática, expandindo conhecimentos neste campo em crescimento.
+Estudante do curso **Técnico de Gestão e Programação de Sistemas Informáticos** com interesse em cibersegurança. 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizCarvalho&layout=compact&theme=dracula&title_color=ff69b4&text_color=ffffff&bg_color=282a36&hide_border=true&border_radius=10" alt="Linguagens mais usadas" />
