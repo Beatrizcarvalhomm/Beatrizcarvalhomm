@@ -66,7 +66,6 @@ Estudante do curso **Técnico de Gestão e Programação de Sistemas Informátic
 ## Formação Académica
 
 - **Técnico de Gestão e Programação de Sistemas Informáticos** (a concluir)
-- **Próximo passo:** Formação especializada em Cibersegurança
 - Interesse em explorar áreas como análise de vulnerabilidades e segurança de redes
 
 ## Áreas de Interesse
